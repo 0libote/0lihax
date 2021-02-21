@@ -1,5 +1,6 @@
-this is the first release of 0lihax so it may be buggy i will try and add updates in the future
 if you need any help contact me on discord - 0libot#6969
+
+Y opens the GUI
 
 HOW TO INSTLALL
 
