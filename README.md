@@ -1,3 +1,5 @@
+installation tutorial https://www.youtube.com/watch?v=CtnclWvjc3Q
+
 if you need any help contact me on discord - 0libot#6969
 
 Y opens the GUI
